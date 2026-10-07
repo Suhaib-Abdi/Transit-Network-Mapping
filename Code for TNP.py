@@ -18,4 +18,7 @@ def load_gtfs(data_dir):
     stop_times['departure_timedelta'] = pd.to_timedelta(stop_times['departure_time'])
 
     return routes, trips, stops, stop_times
-
+trips_routes = pd.merge(trips, routes, on='route_id', how='left')
+full_schedule = pd.merge(stop_times, trips_routes, on='trip_id', how='left')
+master_schedule = pd.merge(full_schedule, stops, on='stop_id', how='left')
+master_schedule = master_schedule.sort_values(['trip_id', 'stop_sequence'])
