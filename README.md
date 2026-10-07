@@ -19,4 +19,5 @@ This project processes, analyzes, and visualizes the Massachusetts Bay Transport
 ### Dependencies
 Open your terminal and install the required libraries:
 ```bash
-pip install pandas plotly<img width="1922" height="621" alt="image" src="https://github.com/user-attachments/assets/191c95f6-9725-48ab-848f-078ac282df9a" />
+pip install pandas plotly 
+<img width="1922" height="621" alt="Screenshot 2026-10-07 195123" src="https://github.com/user-attachments/assets/56954b69-1021-40bf-ae17-a57c0f2e4668" />
