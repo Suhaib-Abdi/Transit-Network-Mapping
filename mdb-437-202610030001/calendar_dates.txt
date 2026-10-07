@@ -1,0 +1,129 @@
+service_id,date,exception_type,holiday_name
+BUS20264-hbl46f21-Weekday-02,20260925,1,
+BUS20264-hbl46026-Saturday-02,20260926,1,
+SPRING2026-NORTHSS-Weekend-1,20260926,1,
+SPRING2026-NORTHSS-Weekend-1-S6561ad1d,20260926,1,
+SPRING2026-NORTHSS-Weekend-1-S7d8482ee,20260926,1,
+SPRING2026-NORTHSS-Weekend-1-S9d378dcf,20260926,1,
+BUS20264-hbl46027-Sunday-02,20260927,1,
+SPRING2026-NORTHSS-Weekend-1,20260927,1,
+SPRING2026-NORTHSS-Weekend-1-S6561ad1d,20260927,1,
+SPRING2026-NORTHSS-Weekend-1-S7d8482ee,20260927,1,
+SPRING2026-NORTHSS-Weekend-1-S9d378dcf,20260927,1,
+LRV20264-hlb46fr1-Weekday-01,20261002,2,
+RTL20264-hmo46fr1-Weekday-01,20261002,2,
+RTL20264-hmb46016-Saturday-01,20261003,2,
+SPRING2026-SOUTHSS-Weekend-1,20261003,2,
+SPRING2026-SOUTHSS-Weekend-1-S0b87ffae,20261003,2,
+SPRING2026-SOUTHSS-Weekend-1-S85407dc6,20261003,2,
+SPRING2026-SOUTHSS-Weekend-1-Sb0e4ed14,20261003,2,
+SPRING2026-SOUTHSS-Weekend-1-Sb7371956,20261003,2,
+SPRING2026-SOUTHSS-Weekend-1-Sc9a3b080,20261003,2,
+SPRING2026-SOUTHSS-Weekend-1-Scb37d3c2,20261003,2,
+SPRING2026-SOUTHSS-Weekend-1-Sd88ed885,20261003,2,
+RTL20264-hmb46017-Sunday-01,20261004,2,
+SPRING2026-SOUTHSS-Weekend-1,20261004,2,
+SPRING2026-SOUTHSS-Weekend-1-S0b87ffae,20261004,2,
+SPRING2026-SOUTHSS-Weekend-1-S85407dc6,20261004,2,
+SPRING2026-SOUTHSS-Weekend-1-Sb0e4ed14,20261004,2,
+SPRING2026-SOUTHSS-Weekend-1-Sb7371956,20261004,2,
+SPRING2026-SOUTHSS-Weekend-1-Sc9a3b080,20261004,2,
+SPRING2026-SOUTHSS-Weekend-1-Scb37d3c2,20261004,2,
+SPRING2026-SOUTHSS-Weekend-1-Sd88ed885,20261004,2,
+RTL20264-hms46011-Weekday-01,20261005,2,
+BUS20264-hba46011-Weekday-02,20261012,2,Indigenous Peoples' Day
+BUS20264-hbb46wk1-Weekday-02,20261012,2,Indigenous Peoples' Day
+BUS20264-hbc46wk1-Weekday-02,20261012,2,Indigenous Peoples' Day
+BUS20264-hbf46011-Weekday-02,20261012,2,Indigenous Peoples' Day
+BUS20264-hbg46wk1-Weekday-02,20261012,2,Indigenous Peoples' Day
+BUS20264-hbl46wk1-Weekday-02,20261012,2,Indigenous Peoples' Day
+BUS20264-hbq46wk1-Weekday-02,20261012,2,Indigenous Peoples' Day
+BUS20264-hbs46sw1-Weekday-02,20261012,2,Indigenous Peoples' Day
+BUS20264-hbt46wk1-Weekday-02,20261012,2,Indigenous Peoples' Day
+IndigenousPeoplesDay,20261012,1,Indigenous Peoples' Day
+LRV20264-alb46011-Weekday-01,20261012,2,Indigenous Peoples' Day
+LRV20264-hlm46011-Weekday-01,20261012,2,Indigenous Peoples' Day
+PRIV20264-hpp46wk1-Weekday-01,20261012,2,Indigenous Peoples' Day
+RTL20264-hmb46011-Weekday-01,20261012,2,Indigenous Peoples' Day
+RTL20264-hmo46011-Weekday-01,20261012,2,Indigenous Peoples' Day
+RTL20264-hms46011-Weekday-01,20261012,2,Indigenous Peoples' Day
+BUS20264-hbc46f41-Weekday-02,20261016,2,
+BUS20264-sbc46wf1-Weekday-01,20261016,1,
+BUS20264-hbc46046-Saturday-02,20261017,2,
+BUS20264-sbc46w16-Saturday-01,20261017,1,
+DIV20264-hmb46wt6-Saturday-01,20261017,1,
+RTL20264-hmb46016-Saturday-01,20261017,2,
+BUS20264-hbc46047-Sunday-02,20261018,2,
+BUS20264-sbc46w17-Sunday-01,20261018,1,
+DIV20264-hmb46wt7-Sunday-01,20261018,1,
+RTL20264-hmb46017-Sunday-01,20261018,2,
+PRIV20264-hpa46016-Saturday-01,20261024,2,
+PRIV20264-hpa46sp6-Saturday-01,20261024,1,
+PRIV20264-hpa46017-Sunday-01,20261025,2,
+PRIV20264-hpa46sp7-Sunday-01,20261025,1,
+BUS20264-hba46011-Weekday-02,20261111,2,Veterans Day
+BUS20264-hba46ns1-Weekday-02,20261111,1,Veterans Day
+BUS20264-hbb46wk1-Weekday-02,20261111,2,Veterans Day
+BUS20264-hbc46wk1-Weekday-02,20261111,2,Veterans Day
+BUS20264-hbf46011-Weekday-02,20261111,2,Veterans Day
+BUS20264-hbf46ns1-Weekday-02,20261111,1,Veterans Day
+BUS20264-hbg46wk1-Weekday-02,20261111,2,Veterans Day
+BUS20264-hbl46wk1-Weekday-02,20261111,2,Veterans Day
+BUS20264-hbq46wk1-Weekday-02,20261111,2,Veterans Day
+BUS20264-hbs46sw1-Weekday-02,20261111,2,Veterans Day
+BUS20264-hbt46wk1-Weekday-02,20261111,2,Veterans Day
+PRIV20264-hpp46wk1-Weekday-01,20261111,2,Veterans Day
+VeteransDay,20261111,1,Veterans Day
+BUS20264-hbc46f41-Weekday-02,20261120,1,
+BUS20264-hbc46046-Saturday-02,20261121,1,
+BUS20264-hbc46047-Sunday-02,20261122,1,
+BUS20264-hba46011-Weekday-02,20261126,2,Thanksgiving Day
+BUS20264-hbb46wk1-Weekday-02,20261126,2,Thanksgiving Day
+BUS20264-hbc46wk1-Weekday-02,20261126,2,Thanksgiving Day
+BUS20264-hbf46011-Weekday-02,20261126,2,Thanksgiving Day
+BUS20264-hbg46wk1-Weekday-02,20261126,2,Thanksgiving Day
+BUS20264-hbl46wk1-Weekday-02,20261126,2,Thanksgiving Day
+BUS20264-hbq46wk1-Weekday-02,20261126,2,Thanksgiving Day
+BUS20264-hbs46sw1-Weekday-02,20261126,2,Thanksgiving Day
+BUS20264-hbt46wk1-Weekday-02,20261126,2,Thanksgiving Day
+Boat-F1-Weekday-Fall-26,20261126,2,Thanksgiving Day
+Boat-F10-Weekday-Fall-26,20261126,2,Thanksgiving Day
+Boat-F2H-Weekday-Fall-26,20261126,2,Thanksgiving Day
+Boat-F4-Weekday-Fall-26,20261126,2,Thanksgiving Day
+CR-FoxboroWalpole-FllCnnWkd,20261126,2,Thanksgiving Day
+LRV20264-alb46011-Weekday-01,20261126,2,Thanksgiving Day
+LRV20264-hlm46011-Weekday-01,20261126,2,Thanksgiving Day
+PRIV20264-hpp46wk1-Weekday-01,20261126,2,Thanksgiving Day
+RTL20264-hmb46011-Weekday-01,20261126,2,Thanksgiving Day
+RTL20264-hmo46011-Weekday-01,20261126,2,Thanksgiving Day
+RTL20264-hms46011-Weekday-01,20261126,2,Thanksgiving Day
+SPRING2026-NORTHSS-Weekend-1,20261126,1,Thanksgiving Day
+SPRING2026-NORTHSS-Weekend-1-S6561ad1d,20261126,1,Thanksgiving Day
+SPRING2026-NORTHSS-Weekend-1-S7d8482ee,20261126,1,Thanksgiving Day
+SPRING2026-NORTHSS-Weekend-1-S9d378dcf,20261126,1,Thanksgiving Day
+SPRING2026-NORTHWKD-Weekday-1,20261126,2,Thanksgiving Day
+SPRING2026-NORTHWKD-Weekday-1-S6561ad1d,20261126,2,Thanksgiving Day
+SPRING2026-NORTHWKD-Weekday-1-S7d8482ee,20261126,2,Thanksgiving Day
+SPRING2026-NORTHWKD-Weekday-1-S9d378dcf,20261126,2,Thanksgiving Day
+ThanksgivingDay,20261126,1,Thanksgiving Day
+BUS20264-hba46011-Weekday-02,20261127,2,Day after Thanksgiving Day
+BUS20264-hba46ns1-Weekday-02,20261127,1,Day after Thanksgiving Day
+BUS20264-hbf46011-Weekday-02,20261127,2,Day after Thanksgiving Day
+BUS20264-hbf46ns1-Weekday-02,20261127,1,Day after Thanksgiving Day
+BUS20264-hbl46f21-Weekday-02,20261127,2,Day after Thanksgiving Day
+DayafterThanksgivingDay,20261127,1,Day after Thanksgiving Day
+FallWeekday,20261127,2,Day after Thanksgiving Day
+RTL20264-hmb46016-Saturday-01,20261127,1,Day after Thanksgiving Day
+RTL20264-hmo46016-Saturday-01,20261127,1,Day after Thanksgiving Day
+RTL20264-hmo46fr1-Weekday-01,20261127,2,Day after Thanksgiving Day
+RTL20264-hms46016-Saturday-01,20261127,1,Day after Thanksgiving Day
+BUS20264-hbc46046-Saturday-02,20261128,1,
+BUS20264-hbc46047-Sunday-02,20261129,1,
+BUS20264-sbc46wf1-Weekday-01,20261204,1,
+BUS20264-hbs46sw6-Saturday-02,20261205,1,
+BUS20264-sbc46w16-Saturday-01,20261205,1,
+BUS20264-hbs46sw7-Sunday-02,20261206,1,
+BUS20264-sbc46w17-Sunday-01,20261206,1,
+BUS20264-hbc46f41-Weekday-02,20261211,1,
+BUS20264-hbc46046-Saturday-02,20261212,1,
+BUS20264-hbs46sw6-Saturday-02,20261212,1,
