@@ -27,3 +27,11 @@ master_schedule = master_schedule.sort_values(['trip_id', 'stop_sequence'])
 calendar = pd.read_csv(f'{data_dir}/calendar.txt')
 weekday_services = calendar[calendar['monday'] == 1]['service_id']
 weekday_schedule = master_schedule[master_schedule['service_id'].isin(weekday_services)]
+
+Calculate the total duration of a trip by grouping by trip_id
+trip_durations = master_schedule.groupby('trip_id').agg(
+    start_time=('arrival_timedelta', 'min'),
+    end_time=('arrival_timedelta', 'max')
+)
+
+trip_durations['total_duration'] = trip_durations['end_time'] - trip_durations['start_time']
