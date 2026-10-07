@@ -22,3 +22,8 @@ trips_routes = pd.merge(trips, routes, on='route_id', how='left')
 full_schedule = pd.merge(stop_times, trips_routes, on='trip_id', how='left')
 master_schedule = pd.merge(full_schedule, stops, on='stop_id', how='left')
 master_schedule = master_schedule.sort_values(['trip_id', 'stop_sequence'])
+
+#Filter by Active Service Days
+calendar = pd.read_csv(f'{data_dir}/calendar.txt')
+weekday_services = calendar[calendar['monday'] == 1]['service_id']
+weekday_schedule = master_schedule[master_schedule['service_id'].isin(weekday_services)]
